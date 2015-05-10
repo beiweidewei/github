@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 new line
 dev : new line
 1 dev: new line
+from 2 dev : new line
